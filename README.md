@@ -110,8 +110,8 @@ npm start
 ![Cart Page](../e-commerce/src/assets//images/Cart.png)
 
 ### 💳 Checkout Page
-![Checkout Page](../e-commerce/src/assets//images/Checkout1.png)
-![Checkout Page](../e-commerce/src/assets//images/Checkout2.png)
+![Checkout Page](./src//assets//images//Checkout1.png)
+![Checkout Page](./src//assets//images/Checkout2.png)
 
 ### 🔍 404 Page
 ![404 Page](../e-commerce/src/assets//images/Notfound.png)
