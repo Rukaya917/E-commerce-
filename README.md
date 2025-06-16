@@ -138,7 +138,6 @@ This project is open source and available under the MIT License.
 ------------------------------
 
 ## ✅ Summary of Fixes Made
-## ✅ Summary of Fixes Made
 
 | Fix                                                 | Why                               |
 |------------------------------------------------------|------------------------------------|
