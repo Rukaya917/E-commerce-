@@ -57,8 +57,7 @@ ShopEase is a fully responsive eCommerce frontend application built with **React
 - Dynamic page titles with Helmet
 - 404 Not Found page for unmatched routes
 
----
-
+``` 
 ## 🧠 Project Architecture
 src/
 │
@@ -68,26 +67,30 @@ src/
 ├── redux/ # Redux slices and store config
 ├── App.js # Main app with routing
 └── index.js # ReactDOM root + Redux/Persist provider
-
+```
 ------------------------------
 
 ## 🛠️ How to Run Locally
 
-1. **Clone this repository:**
+```md
+ **Clone this repository:**
 ```bash
-git clone https://github.com/yourusername/shopease.git
+git clone "https://github.com/yourusername/shopease.git"
 cd shopease
-
+```
 2. **Install dependencies:**                 
 npm install
 
 3. **Start the development server:**
 npm start
 
+------------------------------
+
 ## 🧪 Dummy API Used
 - [DummyJSON Products API](https://dummyjson.com/)
 - Used for fetching all products and single product by ID
 
+------------------------------
 
 ## 📸 Screenshots
 
@@ -113,7 +116,7 @@ npm start
 ### 🔍 404 Page
 ![404 Page](../e-commerce/src/assets//images/Notfound.png)
 
-
+------------------------------
 
 ## ✅ To-Do / Future Improvements
 - Add real authentication using Firebase or JWT
@@ -121,21 +124,27 @@ npm start
 - Add product filtering and categories
 - Enable product reviews and user profile
 
+------------------------------
 
 ## 👩‍💻 Author
 **Rukaya Abbas**  
 Built as a complete front-end eCommerce demo using modern React practices.
 
+------------------------------
+
 ## 📄 License
 This project is open source and available under the MIT License.
 
+------------------------------
+
+## ✅ Summary of Fixes Made
 ## ✅ Summary of Fixes Made
 
-| Fix                              | Why |
-|----------------------------------|-----|
-| Markdown formatting (code blocks, bullet points) | For clean rendering |
-| Folder structure block wrapped in triple backticks | Prevent layout breaking |
-| Author name capitalized & placed in correct section | Clarity |
-| Bash command formatting for install/start | Clean terminal instructions |
-| Screenshot placeholders | Ready for GitHub |
-| Added `Live Demo` section if hosted (optional) | For real-world usage |
+| Fix                                                 | Why                               |
+|------------------------------------------------------|------------------------------------|
+| Markdown formatting (code blocks, bullet points)     | For clean rendering               |
+| Folder structure block wrapped in triple backticks   | Prevent layout breaking           |
+| Author name capitalized & placed in correct section  | Clarity                           |
+| Bash command formatting for install/start            | Clean terminal instructions       |
+| Screenshot placeholders                              | Ready for GitHub                  |
+| Added `Live Demo` section if hosted (optional)       | For real-world usage              |
