@@ -1,0 +1,21 @@
+.btn-add {
+    width: 100%;
+    max-width: 300px;
+    margin-top: 10px;
+}
+
+@media (max-width: 576px) {
+    .btn-add {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+.btn-add:hover{
+    border: 2px solid #198754;
+    background-color: white;
+    transition: all 0.3s ease;
+    color: #198754;
+    font-weight: bold;
+
+}

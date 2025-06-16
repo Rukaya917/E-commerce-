@@ -1,0 +1,23 @@
+.checkout-page input,
+.checkout-page textarea {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.checkout-page .shadow {
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08) !important;
+}
+
+.pay:hover{
+    background-color: #198754;
+
+}
+
+.check:hover{
+    border: 2px solid #198754;
+    background-color: white;
+    transition: all 0.3s ease;
+    color: #198754;
+    font-weight: bold;
+
+}
